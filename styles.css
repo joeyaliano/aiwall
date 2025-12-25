@@ -39,6 +39,8 @@
   
   .shop-button:hover {
     background-color: #e13838;
+    transform: scale(1.05);
+    transition: 0.2s ease;
   }
   
   .wall {
